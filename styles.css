@@ -96,3 +96,7 @@ a {
     flex-wrap: wrap;
     justify-content: center;
 }
+
+.footer {
+    text-align: center;
+}
